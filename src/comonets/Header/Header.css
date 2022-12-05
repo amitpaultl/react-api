@@ -1,0 +1,31 @@
+.header-bg{
+    background: rgb(7, 1, 16);
+}
+.header-area{
+    width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.logo-area a  img{
+    width: 20%;
+}
+
+.menu-area ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.menu-area ul li {
+    display: inline-block;
+}
+
+.menu-area ul li a{
+    padding: 10px 15px;
+    margin:  0 5px;
+    color: #fff; 
+    text-decoration: none;
+}

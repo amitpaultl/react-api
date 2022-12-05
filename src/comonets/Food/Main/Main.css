@@ -1,0 +1,16 @@
+.container{
+    width: 1120px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.col-md-8{
+    width: 744px;
+}
+.col-md-4{
+    width: 372px;
+    background-color: chocolate;
+}
